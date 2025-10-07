@@ -2,7 +2,7 @@ from tkinter import *
 
 # === Kalkulator gaya iOS/Mac ===
 root = Tk()
-root.title("Kalkulator iOS")
+root.title("Nfldfa's Calculator")
 root.configure(bg="#1C1C1C")
 
 # Tampilan Entry (layar hasil)
