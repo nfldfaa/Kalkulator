@@ -43,7 +43,7 @@ class RestoranApp:
     def __init__(self, root):
         self.root = root
         self.root.title("🍽️ Restoran Stack Manager")
-        self.root.geometry("720x520")
+        self.root.geometry("360x260")
         self.root.config(bg="#f8f9fa")
 
         self.stack = StackRestoran()
